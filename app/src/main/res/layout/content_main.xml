@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hu.nemi.feed.ui.FeedItemView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingLeft="@dimen/feed_item_horizontal_padding"
+    android:paddingRight="@dimen/feed_item_horizontal_padding"
+    android:clipToPadding="false"
+    android:id="@+id/stream_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="hu.nemi.feed.ui.MainActivity"
+    tools:showIn="@layout/activity_main" />

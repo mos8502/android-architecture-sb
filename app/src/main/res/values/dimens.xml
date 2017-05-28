@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="feed_item_horizontal_padding">16dp</dimen>
+    <dimen name="feed_item_description">12sp</dimen>
+    <dimen name="feed_item_title">16sp</dimen>
+    <dimen name="feed_item_text_padding">8dp</dimen>
+    <dimen name="feed_item_height">240dp</dimen>
+    <dimen name="feed_item_margin">4dp</dimen>
+</resources>

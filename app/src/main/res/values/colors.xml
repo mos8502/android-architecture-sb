@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="feed_item_text">#FFF</color>
+    <color name="feed_item_text_bg">#66888888</color>
+    <color name="feed_item_bg">#AAA</color>
+</resources>
